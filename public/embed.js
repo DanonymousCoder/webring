@@ -1,4 +1,4 @@
-;(function () {
+;(function () { 
     var wrapper = document.getElementById("webring-wrapper")
 
     var style = document.createElement("style")
